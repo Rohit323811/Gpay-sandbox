@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sandbox.gpay-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rohit\\.config\\freebuff-desktop\\local-projects\\cc13343d-428d-430f-91f8-2ef3b567ad1d\\threads\\439932a1220fdbf8e2bee5490ce50b279f49850ad225f7b287c277ff42089f86\\gpay-apk\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "330"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#ffffff"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="#ffffff" stroke="#e8eaed" stroke-width="6"/>
+  <circle cx="256" cy="256" r="170" fill="none" stroke="#e8eaed" stroke-width="10"/>
+  <!-- G -->
+  <path d="M341 255c0-6-1-12-2-18H256v40h49c-5 18-20 30-41 32-14-1-27-6-36-15-10-10-16-24-16-39 0-30 24-55 55-55 14 0 27 5 36 14l26-26c-15-14-36-23-59-23-48 0-87 39-87 87s39 87 87 87c50 0 82-35 82-84l0-4z" fill="#1a73e8"/>
+  <!-- P -->
+  <path d="M268 348h34v-56h-34z" fill="#ea4335"/>
+  <path d="M302 334c20-4 34-16 34-16l-20-28c0 0-12 10-30 12z" fill="#fbbc05"/>
+  <path d="M336 286c6-10 8-22 6-34l-40 6c2 8 1 16-2 22z" fill="#34a853"/>
+  <!-- pay -->
+  <path d="M176 384v-46h13c10 0 16 6 16 15s-6 15-16 15h-5v16z" fill="#5f6368"/>
+  <path d="M216 384v-46h8l15 22 15-22h8v46h-9v-30l-14 21-14-21v30z" fill="#5f6368"/>
+  <path d="M282 384v-46h15c9 0 15 5 15 13 0 5-2 9-7 11l8 22h-10l-7-20h-6v20z" fill="#5f6368"/>
+</svg>
